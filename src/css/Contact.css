@@ -1,0 +1,32 @@
+.contact{
+    background:#050505;
+    color:white;
+    padding:100px 80px;
+}
+
+.contact-container{
+    max-width:800px;
+    margin:auto;
+    text-align:center;
+}
+
+.contact h2{
+    color:#ff1f1f;
+    font-size:45px;
+    margin-bottom:25px;
+}
+
+.contact p{
+    color:#d0d0d0;
+    font-size:20px;
+    margin-bottom:20px;
+}
+
+.contact-info{
+    margin-top:40px;
+}
+
+.contact-info p{
+    margin:15px 0;
+    font-size:20px;
+}
